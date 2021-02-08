@@ -329,3 +329,5 @@ SELECT first_name, last_name, job_title, salary FROM employees;
 
 UPDATE employees SET salary = salary * 1.1;
 SELECT salary FROM employees;
+
+SELECT * FROM `customers`;
